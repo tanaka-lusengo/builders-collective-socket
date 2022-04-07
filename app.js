@@ -24,7 +24,7 @@ const server = http.createServer(app);
 // cors management safe guarding
 const io = new Server(server, {
   cors: {
-    origin: "http://localhost:3000",
+    origin: "https://builders-collective.herokuapp.com",
     methods: ["GET", "POST"],
   },
 });
