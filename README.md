@@ -20,7 +20,6 @@ Builders’ Collective uses a number of technoloies to work properly:
 
 MERN Stack + Socket.io
 - [JavaScript]
-- [Mongo DB] 
 - [Express] 
 - [node js] 
 - [socket io]
@@ -38,10 +37,6 @@ git clone git@github.com:tanaka-lusengo/builders-collective-socket.git
 Builders’ Collective - Socket requires Node.js 
 
 Install the dependencies and devDependencies and start the server.
-
-This application requires the below .env environment variables to run as seen on .env.example:
-
-- PORT = "PORT"
 
 
 ```sh
