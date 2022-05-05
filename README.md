@@ -56,4 +56,3 @@ MIT
 
 ## Contact
 - Tanaka Lusengo - tc.lusengo@gmail.com | https://www.linkedin.com/in/tanakalusengo/
-- Project Link: https://builders-collective.herokuapp.com/
