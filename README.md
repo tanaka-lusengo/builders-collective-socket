@@ -2,8 +2,12 @@
 
 A dedicated social media platform for Construction Professionals & Skilled Tradesmen and companies’ to network and secure quality jobs.
 
-- This is the Socket server for: https://github.com/tanaka-lusengo/builders-collective-client
-- The back-end server can be found here:  https://github.com/tanaka-lusengo/builders-collective-server
+- This is the Socket server for: (https://github.com/tanaka-lusengo/builders-collective-client)
+
+To run locally, Builders’ Collective requires:
+- client:  (https://github.com/tanaka-lusengo/builders-collective-client) +
+- server:  (https://github.com/tanaka-lusengo/builders-collective-server)
+
 - You can find the deployed site on: https://builders-collective.herokuapp.com/
 
 
