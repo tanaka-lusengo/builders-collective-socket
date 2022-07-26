@@ -1,28 +1,25 @@
 # builders-collective-socket
 
+## Table of Content:
+- About The App
+- Technologies
+- Setup / Installation 
+- Contact
+
 A dedicated social media platform for Construction Professionals & Skilled Tradesmen and companies’ to network and secure quality jobs.
 
 - This is the Socket server for: (https://github.com/tanaka-lusengo/builders-collective-client)
 
 To run locally, Builders’ Collective requires:
-- client:  (https://github.com/tanaka-lusengo/builders-collective-client) +
-- server:  (https://github.com/tanaka-lusengo/builders-collective-server)
+client:  (https://github.com/tanaka-lusengo/builders-collective-client) +
+server:  (https://github.com/tanaka-lusengo/builders-collective-server)
 
 - You can find the deployed site on: https://builders-collective.herokuapp.com/
-
-
-## Table of Content:
-- About The App
-- Technologies
-- Setup / Installation 
-- Status
-- License
 
 ## Technologies
 
 Builders’ Collective uses a number of technoloies to work properly:
 
-MERN Stack + Socket.io
 - [JavaScript]
 - [Express] 
 - [node js] 
@@ -51,12 +48,5 @@ npm start
 
 Runs the app in the development mode.
 
-## Status
-Builders’ Collective is in Version 1 (post capstone Demo Day). Version 2 will be out soon.
-
-## License
-
-MIT
-
 ## Contact
-- Tanaka Lusengo - tc.lusengo@gmail.com | https://www.linkedin.com/in/tanakalusengo/
+- Tanaka Lusengo - tc.lusengo@gmail.com | https://www.linkedin.com/in/tanakalusengo/ | https://www.tanakalusengo.dev/
